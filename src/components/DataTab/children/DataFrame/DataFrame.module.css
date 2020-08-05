@@ -1,0 +1,15 @@
+.DataFrame {
+    background-color: rgb(255, 255, 255) ;
+    z-index: 5;
+    position: absolute;
+    top: 80px;
+    height: 100%;
+}
+
+.InnerContainer {
+    margin: 0 20px;
+}
+
+.ItemCont{
+    padding-bottom: 30px;
+}

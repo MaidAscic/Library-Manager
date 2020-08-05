@@ -1,0 +1,52 @@
+.UserCont {
+    width: 90%;
+    float: left;
+}
+
+.UserField {
+    float: left;
+    width: 50%;
+}
+
+.TextField {
+    width: 100%;
+    margin-right: 20px;
+}
+
+.TextFieldCont {
+    margin-right: 20px;
+}
+
+.BookCont {
+    width: 90%;
+    float: left;
+}
+
+.BookField {
+    float: left;
+    width: 33.33%;
+}
+
+.ButtonOuterCont {
+    height: 52px;
+    width: 10%;
+    float: right;
+    display: flex;
+    align-items: center;
+}
+
+.ButtonCont {
+    margin-left: auto;
+    width: 100%;
+    align-content: flex-end;
+}
+
+.Add {
+    display: inline-flex;
+    float: right;
+}
+
+.Search {
+    display: inline-flex;
+    float: left;
+}

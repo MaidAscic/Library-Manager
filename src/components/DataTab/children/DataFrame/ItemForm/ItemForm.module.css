@@ -1,0 +1,24 @@
+.ImageContainer{
+    outline: invert;
+    width: 15%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.FormContainer{
+    width: 85%;
+    float: right;
+}
+
+.ButtonGroup{
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
+
+.InnerImageContainer{
+    padding-right: 10px;
+
+}
+input:disabled {
+    color: #3f51b5;
+  }
